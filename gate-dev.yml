@@ -44,7 +44,7 @@ auth:
     limit-expire: 1440 #1天
   client:
     token-header: client-token
-    id: ace-gate  #不填则默认读取spring.application.name
+    id: turing-gate  #不填则默认读取spring.application.name
     secret: 123456
 
 # 配置swagger
