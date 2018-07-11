@@ -99,7 +99,7 @@ jwt:
   user-service: ace-admin
 
 client:
-  id: ace-auth
+  id: turing-auth
   secret: 123456
   token-header: client-token
   expire: 3600
